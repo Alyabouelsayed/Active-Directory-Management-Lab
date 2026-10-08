@@ -62,10 +62,10 @@ To ensure policies were successfully applied and processed by the client worksta
 
 ### Policy Refresh
 Forcefully updated Group Policy settings on the client machine:
-```cmd
+cmd
 gpupdate /force
 
-Policy Verification
+### Policy Verification
 Verified applied Computer and User policy processing via CLI:
 gpresult /r /scope computer
 Applied GPOs Confirmed in Output:
