@@ -83,7 +83,7 @@ Applied GPOs Confirmed in Output:
  Security & Compliance: Group Policy Management (GPMC), Security Baselines, Password & Account Lockout Policies.
  Troubleshooting & Tools: ⁠gpupdate⁠, ⁠gpresult⁠, DNS diagnostics, Domain trust validation.
 
-### 📸 Screenshots & Evidence
+📸 Screenshots & Evidence
 All documentation screenshots are organized in the ⁠/screenshots⁠ directory, including:
  Active Directory User & Computer object configurations.
  GPO settings in Group Policy Management Console.
