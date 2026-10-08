@@ -72,18 +72,18 @@ Applied GPOs Confirmed in Output:
  ⁠IT SECURITY POLICY⁠ (Linked to IT OU)
  ⁠Default Domain Policy⁠
  ⁠COMPANY SECURITY POLICY⁠
-🛠️ Troubleshooting Workflow Executed
+### 🛠️ Troubleshooting Workflow Executed
 1. Network Connectivity: Validated IP reachability between ⁠WIN11-LAB⁠ and ⁠DC01⁠.
 2. DNS Validation: Verified client DNS points correctly to the Domain Controller.
 3. Domain Trust: Confirmed workstation secure channel trust relationship.
 4. GPO Scope Verification: Verified GPO link status and OU inheritance settings in Group Policy Management Console (GPMC).
-💡 Key Skills Demonstrated
+### 💡 Key Skills Demonstrated
  Directory Services: Active Directory Users and Computers (ADUC), Organizational Units (OUs), Security Group Management.
  System Administration: Windows Server 2022 configuration, Windows 11 Domain Join, Role-Based Access Control (RBAC).
  Security & Compliance: Group Policy Management (GPMC), Security Baselines, Password & Account Lockout Policies.
  Troubleshooting & Tools: ⁠gpupdate⁠, ⁠gpresult⁠, DNS diagnostics, Domain trust validation.
 
-📸 Screenshots & Evidence
+### 📸 Screenshots & Evidence
 All documentation screenshots are organized in the ⁠/screenshots⁠ directory, including:
  Active Directory User & Computer object configurations.
  GPO settings in Group Policy Management Console.
